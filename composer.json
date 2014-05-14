@@ -1,0 +1,12 @@
+{
+    "name": "cubiclesoft/email-sms-mms-gateways",
+    "description": "List of known e-mail to SMS, MMS, and Rich Messaging gateways in JSON format.",
+    "keywords": ["sms", "mms", "JSON","php"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CubicleSoft",
+            "homepage": "http://cubiclesoft.com/"
+        }
+}
